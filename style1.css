@@ -2,10 +2,10 @@
 h2 {
 	color: black;
 	font: georgia;
-	font-size: 110px;
+	font-size: 100px;
 	font-style: normal;
 	font-variant: normal;
-	font-weight: 100;
+	font-weight: 4;
 	text-align: center;
 }
 
@@ -26,6 +26,6 @@ img {
 
 body { 
 	
-	background-color: lightgrey;
+	background-color: rgb(204,255,255);
 
 }
