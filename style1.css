@@ -1,6 +1,7 @@
+
 h2 {
-	font-family: 'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif;
-	font-size: 100px;
+	font: georgia;
+	font-size: 110px;
 	font-style: normal;
 	font-variant: normal;
 	font-weight: 100;
@@ -8,14 +9,22 @@ h2 {
 }
 
 p {	text-align: center;
-	font-size: 40px;
+	font-size: 60px;
+	font-variant: small-caps;
+	font-color: white;
 }
 
 img {
+	border-style: solid;
+    border-width: medium;
 	display: block;
     margin: 0 auto;
 }
 
 
-body { background: -webkit-linear-gradient(top, rgba(109,179,242,1) 
-0%,rgba(84,163,238,1) 50%,rgba(54,144,240,1) 51%,rgba(30,105,222,1) 100%); }
+body { 
+	
+	background: -webkit-linear-gradient(top, rgba(109,179,242,1) 
+0%,rgba(84,163,238,1) 50%,rgba(54,144,240,1) 51%,rgba(30,105,222,1) 100%); 
+
+}
