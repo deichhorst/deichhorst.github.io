@@ -1,5 +1,6 @@
 
 h2 {
+	color: black;
 	font: georgia;
 	font-size: 110px;
 	font-style: normal;
@@ -11,12 +12,13 @@ h2 {
 p {	text-align: center;
 	font-size: 60px;
 	font-variant: small-caps;
-	font-color: white;
+	color: black;
 }
 
 img {
 	border-style: solid;
     border-width: medium;
+    border-color: black;
 	display: block;
     margin: 0 auto;
 }
@@ -24,7 +26,6 @@ img {
 
 body { 
 	
-	background: -webkit-linear-gradient(top, rgba(109,179,242,1) 
-0%,rgba(84,163,238,1) 50%,rgba(54,144,240,1) 51%,rgba(30,105,222,1) 100%); 
+	background-color: lightgrey;
 
 }
