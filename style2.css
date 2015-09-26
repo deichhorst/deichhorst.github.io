@@ -1,0 +1,15 @@
+h2 {
+	text-align: center;
+	font-size: 75px;
+	font-variant: small-caps;
+	text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+}
+
+p{
+	font-size: 30px;
+	margin:0px 150px;
+}
+
+body{
+	background-color: rgb(70,130,180);
+}
