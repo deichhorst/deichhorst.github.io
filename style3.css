@@ -1,5 +1,9 @@
 html{
 	background-color: rgb(70,130,180);
+	border-style: solid;
+	border-color: black;
+	border-width: 16px;
+
 }
 
 h2 {
@@ -12,4 +16,9 @@ h2 {
 h3{
 	font-size: 40px;
 	font-variant: small-caps;
+}
+
+body {
+
+	
 }
