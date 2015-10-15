@@ -24,13 +24,6 @@ img {
     margin: 0 auto;
 }
 
-
-body { 
-	border-style: solid;
-	border-color: black;
-	border-width: 16px;
-}
-
 html {
 	background-color: rgb(70,130,180);
 }
